@@ -1,0 +1,84 @@
+.navbar-brand.mb-0.h1 {
+    color: white;
+    font-size: 25px;
+}
+
+.nav.justify-content-end {
+    margin-left: 50%;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-white {
+     padding: 0%;
+    
+}
+#header {
+     margin-left: 18%;
+}
+
+.bio-image{
+    padding: 20px;
+  
+}
+.card {
+   border: none;
+   margin-top: 40px;
+}
+.container {
+   width: 60%;
+   margin-top: 40px;
+   background: white;
+   font-family: Arial, Helvetica, sans-serif;
+   color: lightslategray;
+   padding-bottom: 10%;
+}
+.h1.text-info{
+    padding: 10px;
+    border-bottom-color: #666666;
+}
+body {
+    background-color: rgb(191, 190, 190);
+}
+h1 {
+        border-bottom-style: solid;
+        border-bottom-width: thin;
+        border-bottom-color: lightslategray;
+
+}
+.p-2.bg-info.text-white {
+    position: absolute;
+	bottom: 20%;	
+	width: 290px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	z-index: 2;
+}
+
+
+.image {
+    width: 290px;
+    height: 260px;
+    padding-top: 5%;
+    padding-right:0%;
+    margin: auto;
+}
+.btn.btn-info{
+    margin-bottom: 10px;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	color: #cccccc;
+	background-color: #666666;
+	border-top: 5px solid;
+	border-top-color: #4aaaa5;
+    height: 80px;
+    width: 100%;
+    padding-top: 20px;
+}
+.container-fluid.footer-section {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-left: 50%;
+
+}
